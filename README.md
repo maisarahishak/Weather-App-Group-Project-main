@@ -21,11 +21,17 @@ http.Response response = await http.get(Uri.parse('https://api.openweathermap.or
 - From this example, the weather details from Kuala Lumpur will be displayed. 
 
 **Login Page (main.dart)**
+
 ![Screenshot 2022-06-22 223936](https://user-images.githubusercontent.com/75440176/175063302-3d5c2d0c-8bf2-41b8-8c26-329bcbc29681.png)
 
 
+
+
 **Home Page/Weather Page (profile_screen.dart)**
+
 ![Screenshot 2022-06-22 212357](https://user-images.githubusercontent.com/75440176/175063585-44cca57e-7867-4053-88da-5d03d7d072b7.png)
+
+
 
 
 **Objective of Project**
